@@ -37,8 +37,6 @@ Users find your business through paid and organic searches, increasing the searc
 ## Cost Managment
 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
 
-# copy right link
-links to legal page.
 
 # Footer
 Made with ❤️️ by Horiseon

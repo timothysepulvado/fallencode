@@ -1,5 +1,10 @@
 # Horiseon Home Page
 
+## Technologies Used
+ * HTML
+ * CSS
+
+
 ## search engine optimization
 
 ## online reputation managment
@@ -18,8 +23,11 @@
 ## Social Media Marketing "Box"
  Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
 
- ## Technologies Used
- * HTML
- * CSS
+ 
+#### Right side verticle "box" and content
 
+## Lead Generation
+Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
+
+ 
 

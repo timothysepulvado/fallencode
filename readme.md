@@ -6,5 +6,5 @@
 
 ## social medea marketing
 
-![alt text] (./assets/images/brand-awareness.png)
+![alt text](./assets/images/brand-awareness.png)
 

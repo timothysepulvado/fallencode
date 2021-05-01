@@ -6,5 +6,5 @@
 
 ## social medea marketing
 
-![screenshot](./Screen Shot 2021-05-01 at 11.21.40 AM.png)
+![Alt text](./assets/images/Screen Shot 2021-05-01 at 11.21.40 AM.png)
 

@@ -23,7 +23,9 @@
 ## Social Media Marketing "Box"
  Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
 
- 
+![alt text](./assets/images/screenshot2.png) 
+
+
 #### Right side verticle "box" and content
 
 ## Lead Generation

@@ -29,5 +29,21 @@
 ## Lead Generation
 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
 
+## Brand Awareness
+Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
+
+## Cost Managment
+As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
+
+# copy right link
+links to legal page.
+
+# Footer
+Made with ❤️️ by Horiseon
+
+
+
+
+
  
 

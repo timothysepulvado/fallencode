@@ -94,7 +94,7 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit {
+.benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -114,7 +114,7 @@ aside {
 
 /* SEO Section Condeced*/
 
-.search-engine-optimization, .social-media-marketing, .online-reputation-management {
+.SEO1 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -125,14 +125,12 @@ aside {
 
 
 
-.search-engine-optimization img, .online-reputation-management img,
-.social-media-marketing img {
+.SEO1 img {
     max-height: 200px;
 }
 
 
-.search-engine-optimization h2, .online-reputation-management h2,
-.social-media-marketing h2 {
+.SEO1 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
